@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1481700495 source:c:\users\user\documents\программирование\вторая попытка\super_bi_crazy_tree\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+
